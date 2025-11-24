@@ -283,7 +283,5 @@ def main():
         # Increment frame counter
         frame_number += 1
 
-    print("Done! Zip the folder for submission.")
-
 if __name__ == "__main__":
     main()
